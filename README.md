@@ -1,6 +1,6 @@
 # Genesis Brain: An Experimental Study on Fractal Weight Initialization
 
-https://youtu.be/RRv1mAOsSCs
+[https://youtu.be/RRv1mAOsSCs](https://www.youtube.com/watch?v=fjepSkaG_Rc)
 
 This repository contains the code and results for an experimental study comparing a novel
 fractal-based weight initialization method ("Genesis") against a standard random initialization
